@@ -1,9 +1,9 @@
 ## Author
-**SHYAM KUMAR V**  
+**B SRIDHR**  
 **Company**: CODETECH IT SOLUTIONS  
-**Id**: CT12DS2958  
-**Domain**: Full Stack Web Development  
-**Duration**: Dec 5th 2024 to Feb 5th, 2025
+**Id**: CCT08UTI
+**Domain**:FRONTEND WEB DEVELEPMENT 
+**Duration**: FEB 15 TO MAR 15  2025
 
 
 # Real-Time Chat Application
